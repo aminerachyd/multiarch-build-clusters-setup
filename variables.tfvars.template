@@ -1,0 +1,18 @@
+### This is a template file for the variables
+### Rename to .tfvars extension, uncomment the variables and fill them with your own values
+### Refer to the README.md file for more information on the variables 
+
+# project-name =
+
+# dev-cluster-host   = 
+# x86-cluster-host   = 
+# power-cluster-host = 
+# z-cluster-host     = 
+
+# dev-cluster-token   =
+# x86-cluster-token   =
+# power-cluster-token =
+# z-cluster-token     =
+
+# registry-user   =
+# registry-token  =
