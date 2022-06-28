@@ -5,7 +5,7 @@
 ![DevSecOps workflow](./media/multiarch-build-workflow.png)
 This Terraform script is an automated setup for building multiarchitectures images using Tekton on different OpenShift clusters.
 
-The pipelines used are under the repository : https://github.com/aminerachyd/ibm-garage-tekton-tasks
+The pipelines used are under the repository : https://github.com/aminerachyd/ibm-garage-tekton-tasks/tree/multiarch-pipeline
 
 The multiarchitecture pipelines build images for x86, IBM Z (s390x) and IBM Power (ppc64le) architectures.
 
