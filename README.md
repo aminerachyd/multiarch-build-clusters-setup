@@ -12,7 +12,7 @@ The multiarchitecture pipelines build images for x86, IBM Z (s390x) and IBM Powe
 
 - Terraform CLI installed
 - Admin access to two x86 clusters, a Z cluster and a Power cluster
-- One x86 cluster is used as a development cluster, the Cloud-Native Toolkit should be installed on this cluster. The other clusters will be used as "workload clusters" to build images in the corresponding architectures.
+- One x86 cluster is used as a development cluster, the [Cloud-Native Toolkit](https://cloudnativetoolkit.dev/) should be installed on this cluster. The other clusters will be used as "workload clusters" to build images in the corresponding architectures.
 
 ## Variables :
 
